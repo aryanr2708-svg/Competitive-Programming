@@ -11,7 +11,9 @@ public:
                 arr2.push_back(nums[n]);
             }
         }
-        arr1.insert(arr1.end(),arr2.begin(),arr2.end());
+        for(int i=0;i<arr2.size();i++){
+            arr1.push_back(arr2[i]);
+        }
         return arr1;
     }
 };
