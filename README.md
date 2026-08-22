@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0069-sqrtx) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
