@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0069-sqrtx) |
+| [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0058-length-of-last-word) |
+| [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
