@@ -23,14 +23,8 @@ public:
                 }
             }
         }
-        if(ql+qr==0){
-            return (sl!=sr);
-        }
         if((ql+qr)%2!=0){
             return true;
-        }
-        if(ql==qr){
-            return(sl!=sr);
         }
         return 2*(sl-sr)!=9*(qr-ql);
     }
