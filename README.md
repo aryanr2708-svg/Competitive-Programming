@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0069-sqrtx) |
+| [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
@@ -135,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
