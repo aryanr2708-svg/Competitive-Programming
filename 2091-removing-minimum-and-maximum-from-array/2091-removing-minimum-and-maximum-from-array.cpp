@@ -4,13 +4,25 @@ public:
         if(nums.size()<=2){
             return nums.size();
         }
-        int minf=distance(nums.begin(),min_element(nums.begin(),nums.end()));
-        int minb=nums.size()-minf;
-        int maxf=distance(nums.begin(),max_element(nums.begin(),nums.end()));
-        int maxb=nums.size()-maxf;
-        int bs = (minf<maxf)? (minf+1+maxb):(maxf+1+minb);
-        int fo = max(minf,maxf)+1;
-        int bo = max(minb,maxb);
-        return  min({fo,bo,bs});
+        int minv = nums[0];
+        int maxv = nums[0];
+        int mini = 0;
+        int maxi = 0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]<minv){
+                minv = nums[i];
+                mini = i;
+            }
+            if(nums[i]>maxv){
+                maxv = nums[i];
+                maxi = i;
+            }
+        }
+        int l = min(mini,maxi);
+        int r = max(mini,maxi);
+        int fo = r+1;
+        int bo = nums.size()-l;
+        int bs= l+1+nums.size()-r;
+        return min({fo,bo,bs});
     }
 };
