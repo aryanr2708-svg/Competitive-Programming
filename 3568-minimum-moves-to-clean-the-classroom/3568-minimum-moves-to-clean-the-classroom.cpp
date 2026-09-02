@@ -1,9 +1,3 @@
-#include <vector>
-#include <string>
-#include <queue>
-#include <tuple>
-#include <cstring>
-using namespace std;
 class Solution {
     bool visited[20][20][1 << 10][51];
     int litter_idx[20][20];
