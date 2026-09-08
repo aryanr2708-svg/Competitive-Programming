@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
