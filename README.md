@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0940-distinct-subsequences-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
