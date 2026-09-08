@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0940-distinct-subsequences-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
