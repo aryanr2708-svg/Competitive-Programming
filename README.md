@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0069-sqrtx) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
