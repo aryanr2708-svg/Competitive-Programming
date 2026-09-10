@@ -11,23 +11,22 @@
  */
 class Solution {
 public:
-    int averageOfSubtree(TreeNode* root) {
-        int ans=0;
-        dfs(root,ans);
-        return ans;
-    }
-private:
-    pair<int,int> dfs(TreeNode* root, int& ans){
+    int ans=0;
+    pair<int,int> dfs(TreeNode* root){
         if (root==nullptr){
             return {0,0};
         }
-        auto[ls,lc]=dfs(root->left,ans);
-        auto[rs,rc]=dfs(root->right,ans);
-        int s=root->val+ls+rs;
-        int c=1+lc+rc;
+        auto l=dfs(root->left);
+        auto r=dfs(root->right);
+        int s=l.first+r.first+root->val;
+        int c=l.second+r.second+1;
         if(s/c==root->val){
-            ++ans;
+            ans++;
         }
         return {s,c};
+    }
+    int averageOfSubtree(TreeNode* root) {
+        dfs(root);
+        return ans;
     }
 };
