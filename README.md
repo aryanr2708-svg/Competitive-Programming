@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0088-merge-sorted-array) |
+| [0835-image-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
