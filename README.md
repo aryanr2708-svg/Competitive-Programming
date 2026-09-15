@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
