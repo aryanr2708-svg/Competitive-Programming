@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0012-integer-to-roman) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0148-sort-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
