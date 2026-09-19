@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
