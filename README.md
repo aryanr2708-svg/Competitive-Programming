@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0835-image-overlap) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Bucket Sort
 |  |
 | ------- |
