@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0035-search-insert-position) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0027-remove-element) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
