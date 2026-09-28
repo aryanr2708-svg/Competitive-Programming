@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
