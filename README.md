@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0088-merge-sorted-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0039-combination-sum) |
 | [1096-brace-expansion-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
