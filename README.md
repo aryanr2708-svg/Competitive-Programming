@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1021-remove-outermost-parentheses) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
