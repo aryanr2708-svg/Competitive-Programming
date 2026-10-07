@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0796-rotate-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
