@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1929-concatenation-of-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3498-reverse-degree-of-a-string) |
