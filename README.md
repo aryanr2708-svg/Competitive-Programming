@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
+| [1470-shuffle-the-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
