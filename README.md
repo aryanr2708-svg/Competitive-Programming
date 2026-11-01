@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0169-majority-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0171-excel-sheet-column-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
