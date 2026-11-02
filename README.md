@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0169-majority-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1386-cinema-seat-allocation) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2089-find-target-indices-after-sorting-array) |
