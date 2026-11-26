@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanr2708-svg/Competitive-Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
